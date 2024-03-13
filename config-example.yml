@@ -1,0 +1,6 @@
+graphql_endpoints:
+  source_a: URL
+  source_b: URL
+namespaces:
+  - namespace_1
+  - namespace_2
